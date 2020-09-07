@@ -104,4 +104,7 @@ found in
 }
 ```
 
+### Solution
+
+[[Vue warn]: Error in render: "RangeError: Maximum call stack size exceeded"](https://www.yuque.com/jeecg-os/index/nscgdt#739c055c)
 
