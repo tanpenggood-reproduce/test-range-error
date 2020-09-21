@@ -10,7 +10,7 @@ test-range-error
 
 ### Steps to reproduce
 
-1. 克隆项目地址 https://github.com/tanpenggood/test-range-error.git ( 最简单的一个复现模型 )
+1. 克隆项目地址 https://github.com/tanpenggood-reproduce/test-range-error.git ( 最简单的一个复现模型 )
 2. npm install
 3. npm run serve
 4. 浏览器打开http://localhost:3000/
