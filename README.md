@@ -108,3 +108,7 @@ found in
 
 [[Vue warn]: Error in render: "RangeError: Maximum call stack size exceeded"](https://www.yuque.com/jeecg-os/index/nscgdt#739c055c)
 
+### Fix
+
+最终定位到是由于数据库数据错误，导致(递归)渲染前端菜单组件时发生栈溢出，该`error`与前端代码无关。
+
